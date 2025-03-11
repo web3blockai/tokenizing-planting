@@ -1,2 +1,1 @@
-# blockchain-tokenizing-planting
-Tokenizing Planting
+# Tokenizing Planting
